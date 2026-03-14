@@ -12,10 +12,11 @@ The analysis focuses on identifying key drivers of sales, profit performance, cu
 
 ## Tools & Technologies
 
-- SQL Server
+- SQL Server / MySQL
 - Power BI
 - DAX (Data Analysis Expressions)
 - Power Query
+- MySQL Connector .Net
 - Data Modeling
 - Data Visualization
 
@@ -134,16 +135,46 @@ This type of analysis supports data-driven decision making in areas such as prod
 
 ---
 
-## Dashboard Preview
+## Dashboard Access and Preview
 
-### Executive Overview
+You can explore the dashboard in two ways:
+
+1. Download the Power BI file  
+ [Download the .pbix file](dashboard/superstore_powerbi_dashboard.pbix)
+- Note: To open the dashboard you need **Power BI Desktop** installed.
+2. View the dashboard preview below
+
+### Overview
 ![Overview](overview_dashboard_powerbi.PNG)
 
 ### Product Performance
 ![Product](product_dashboard_powerbi.PNG)
 
 ### Customer & Regional Performance
-![Customer](customer_region_dashboard.PNG)
+![Customer](customer_region_dashboard_powerbi.PNG)
+
+## Files in This Repository
+
+- **Superstore_Raw_Data.csv** — original dataset  
+- **superstore_analysis.sql** — data modeling and business analysis queries  
+- **superstore_database_schema.PNG** — EER database diagram  
+- **analysis_description** — description of the analytical queries and results  
+
+---
+
+## Future Improvements
+
+Possible extension of this project includes :
+- Building a **Power BI dashboard connected to the SQL database**
+- Using **Python** (Pandas / Matplotlib) for advanced analysics
+
+---
+
+## Author
+**Ariane Sime**
+Business Informatics Student (**Wirtschaftsinformatik B.Sc.**)
+Aspiring Data Analyst
+
 
 
 
