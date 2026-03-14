@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project presents an end-to-end business analysis of retail sales data using **SQL Server and Power BI**.
+The goal of this project is to transform SQL-based sales analysis into an interactive Power BI dashboard.
 
-The goal of the project is to transform raw transactional data into **actionable business insights** through data analysis and interactive dashboards.
+After structuring and analyzing the dataset using SQL, the results are visualized in Power BI to provide a clear and interactive view of business performance.
 
-The analysis focuses on identifying key drivers of sales, profit performance, customer value, and regional trends.
+The dashboard enables users to explore key business metrics such as sales, profit, customer value, product performance, and regional trends in order to support data-driven decision making.
 
 ---
 
@@ -106,8 +106,9 @@ This page helps identify the most valuable customers and the strongest markets.
 
 Some key findings from the analysis include:
 
-- Technology generates the highest overall revenue.
+- Technology generates the highest overall revenue and profit margin.
 - Profitability varies significantly across product categories.
+- Sub Categories such as Tables and Bookcases show negative profitability.
 - A small number of customers contribute a significant share of total sales.
 - Regional performance differs across the United States, with some regions contributing more strongly to profit.
 
@@ -124,14 +125,6 @@ This project demonstrates the following data analytics skills:
 - Dashboard design and data storytelling
 - Business performance analysis
 - Interactive report development
-
----
-
-## Project Outcome
-
-The final result is an interactive **Power BI dashboard** that allows users to explore business performance from multiple perspectives including product, customer, and regional analysis.
-
-This type of analysis supports data-driven decision making in areas such as product strategy, customer targeting, and regional market development.
 
 ---
 
@@ -153,19 +146,12 @@ You can explore the dashboard in two ways:
 ### Customer & Regional Performance
 ![Customer](customer_region_dashboard_powerbi.PNG)
 
-## Files in This Repository
-
-- **Superstore_Raw_Data.csv** — original dataset  
-- **superstore_analysis.sql** — data modeling and business analysis queries  
-- **superstore_database_schema.PNG** — EER database diagram  
-- **analysis_description** — description of the analytical queries and results  
-
 ---
 
 ## Future Improvements
 
 Possible extension of this project includes :
-- Building a **Power BI dashboard connected to the SQL database**
+
 - Using **Python** (Pandas / Matplotlib) for advanced analysics
 
 ---
