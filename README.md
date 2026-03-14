@@ -140,7 +140,7 @@ This type of analysis supports data-driven decision making in areas such as prod
 You can explore the dashboard in two ways:
 
 1. Download the Power BI file  
- [Download the .pbix file](dashboard/superstore_powerbi_dashboard.pbix)
+ [Download the .pbix file](superstore_powerbi_dashboard.pbix)
 - Note: To open the dashboard you need **Power BI Desktop** installed.
 2. View the dashboard preview below
 
