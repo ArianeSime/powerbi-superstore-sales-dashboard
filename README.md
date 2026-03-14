@@ -1,4 +1,4 @@
-# Superstore Sales Analysis Dashboard (SQL + Power BI)
+# Power BI Superstore Sales Analysis Dashboard 
 
 ## Project Overview
 
@@ -51,7 +51,7 @@ Key variables include:
 
 The Power BI report is organized into three main analytical pages.
 
-### 1. Executive Overview
+### 1. Overview
 
 Provides a high-level summary of business performance.
 
@@ -86,7 +86,7 @@ This analysis helps understand which product categories contribute most to reven
 
 ---
 
-### 3. Customer & Regional Insights
+### 3. Customer & Regional Performance
 
 Focuses on customer value and geographic performance.
 
@@ -131,3 +131,28 @@ This project demonstrates the following data analytics skills:
 The final result is an interactive **Power BI dashboard** that allows users to explore business performance from multiple perspectives including product, customer, and regional analysis.
 
 This type of analysis supports data-driven decision making in areas such as product strategy, customer targeting, and regional market development.
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+![Overview](overview_dashboard.PNG)
+
+### Product Performance
+![Product](product_dashboard.PNG)
+
+### Customer & Regional Performance
+![Customer](customer_region_dashboard.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
