@@ -137,10 +137,10 @@ This type of analysis supports data-driven decision making in areas such as prod
 ## Dashboard Preview
 
 ### Executive Overview
-![Overview](overview_dashboard.PNG)
+![Overview](overview_dashboard_powerbi.PNG)
 
 ### Product Performance
-![Product](product_dashboard.PNG)
+![Product](product_dashboard_powerbi.PNG)
 
 ### Customer & Regional Performance
 ![Customer](customer_region_dashboard.PNG)
